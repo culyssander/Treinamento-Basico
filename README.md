@@ -1,7 +1,7 @@
 
 # Treinamento Basico
 
-1. **[HTML/CSS](src/html_css/)**
+1. **[HTML/CSS](../treinamento-basico/src/html_css/)**
 2. **[JavaScript](/src/javascript/)**
 3. **[Markdown](/src/markdown/)**
 4. **[Git](/src/git/)**
