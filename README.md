@@ -17,4 +17,4 @@
 14. **[Liferay](/src/liferay/)**
 
 ## Tudo comecou com um 'Hello World!'...
-![unsplash](/Treinamento-Basico/assets/images/hello-world-unsplash.jpg "Tudo comecou com um 'Hello World!'")
+![unsplash](assets/images/hello-world-unsplash.jpg "Tudo comecou com um 'Hello World!'")
