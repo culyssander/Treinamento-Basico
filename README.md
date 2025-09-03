@@ -1,10 +1,10 @@
 
 # Treinamento Basico
 
-1. **[HTML/CSS](../treinamento-basico/src/html_css)**
-2. **[JavaScript](/src/javascript/)**
-3. **[Markdown](/src/markdown/)**
-4. **[Git](/src/git/)**
+1. **[HTML/CSS](./src/html_css)**
+2. **[JavaScript](./src/javascript/)**
+3. **[Markdown](./src/markdown/)**
+4. **[Git](./src/git/)**
 5. **[Docker](/src/docker/)**
 6. **[Banco de dados](/src/banco_de_dados/)**
 7. **[ElasticSearch](/src/elastic_search/)**
