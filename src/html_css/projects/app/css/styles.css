@@ -13,7 +13,8 @@ body {
 
 .wrapper {
     margin: 0 auto;
-    width: 800px;
+    width: 1000px;
+    height: 100vh;
     background-color: #f5f4f4;
     box-shadow: 1px 0px 2px #0B63CE;
     border-radius: 5px;
@@ -183,6 +184,12 @@ nav ul li:hover a, .login ul li:hover a {
 
 footer {
     padding: 10px;
+    position: fixed;
+    height: 50px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
 }
 
 footer a {
