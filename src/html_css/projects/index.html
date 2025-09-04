@@ -18,7 +18,7 @@
     <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
   <style>
     body {
-        height: 100vh;
+        /* height: 100vh; */
     }
     .attribution { font-size: 11px; text-align: center; }
     .attribution a { color: hsl(228, 45%, 44%); }
@@ -30,7 +30,10 @@
         <div class="logo">
             <a href="#"><img src="./assets/img/logo.png" alt="liferay logo"></a>
         </div>
-        <nav>
+        <div class="menu-toggle" id="menu-toggle">
+            <i class="bi bi-list"></i>
+        </div>
+        <nav class="nav-menu" id="nav-menu">
             <ul>
                 <li><a href="">Home</a></li>
                 <li><a href="#">Product</a></li>
