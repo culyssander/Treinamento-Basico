@@ -245,6 +245,8 @@ footer a {
 @media (max-width: 768px) {
     body {
         overflow-y: auto;
+        margin: 0;
+        padding: 0;
     }
 
     .menu-toggle  {
@@ -253,6 +255,7 @@ footer a {
 
     .wrapper {
         width: 100%;
+        height: auto;
         border-radius: 0;
         box-shadow: none;
     }
